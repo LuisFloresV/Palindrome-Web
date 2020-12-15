@@ -16,6 +16,7 @@ GEM
       ruby-progressbar
     mustermann (1.1.1)
       ruby2_keywords (~> 0.0.1)
+    naoko_palindrome (0.1.0)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     rack (2.2.3)
@@ -44,6 +45,7 @@ PLATFORMS
 DEPENDENCIES
   minitest
   minitest-reporters
+  naoko_palindrome
   nokogiri
   rack-test
   rake
